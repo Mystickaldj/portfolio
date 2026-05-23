@@ -4,7 +4,7 @@ This is my personal web developer portfolio. It includes responsive web projects
 
 ## Live Website
 
-https://Mystickaldj.github.io/portfolio/
+https://github.com/Mystickaldj/portfolio
 
 ## Projects
 
