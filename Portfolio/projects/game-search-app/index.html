@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Game Search App | Jesse Rowe</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <main class="container">
+    <a href="../../index.html" class="back-link">← Back to Portfolio</a>
+
+    <header class="hero">
+      <p class="eyebrow">JavaScript Project</p>
+      <h1>Game Search App</h1>
+      <p>
+        Search and filter a collection of games using JavaScript.
+      </p>
+    </header>
+
+    <section class="controls">
+      <input type="text" id="searchInput" placeholder="Search by game title..." />
+
+      <select id="genreFilter">
+        <option value="all">All Genres</option>
+        <option value="Action RPG">Action RPG</option>
+        <option value="Shooter">Shooter</option>
+        <option value="Racing">Racing</option>
+        <option value="Strategy">Strategy</option>
+      </select>
+    </section>
+
+    <p id="resultCount" class="result-count"></p>
+
+    <section id="gameGrid" class="game-grid"></section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

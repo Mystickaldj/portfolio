@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Task Tracker App | Jesse Rowe</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <main class="app-container">
+    <section class="app-card">
+      <a href="../../index.html" class="back-link">← Back to Portfolio</a>
+
+      <header>
+        <p class="eyebrow">JavaScript Project</p>
+        <h1>Task Tracker App</h1>
+        <p class="intro">
+          Add, complete, delete, and save tasks using local storage.
+        </p>
+      </header>
+
+      <form id="taskForm" class="task-form">
+        <input type="text" id="taskInput" placeholder="Enter a new task..." />
+        <button type="submit">Add Task</button>
+      </form>
+
+      <p id="message" class="message"></p>
+
+      <ul id="taskList" class="task-list"></ul>
+
+      <button id="clearCompleted" class="clear-btn">Clear Completed</button>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
