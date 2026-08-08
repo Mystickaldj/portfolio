@@ -17,6 +17,8 @@ A JavaScript task app that allows users to add, complete, delete, and save tasks
 ### Game Search App
 A JavaScript search and filter project that displays game cards based on user input and selected genre.
 
+Currently in progress: Desktop application that will be substantial. Without giving to many details, it will be voice controlled, and capable of building multiple ideas. 
+
 ## Technologies Used
 
 - HTML5
