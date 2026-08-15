@@ -34,6 +34,9 @@ It combines full-stack development with AI integration, application architecture
 
 The project is still under active development, so I'm keeping the source code and some of the implementation details private for now.
 
+<img width="1858" height="1079" alt="image" src="https://github.com/user-attachments/assets/06d07cce-20fc-4de2-8d4d-1db0e8abcce0" />
+
+
 ## Technologies I've Worked With
 
 - TypeScript
