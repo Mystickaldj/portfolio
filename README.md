@@ -32,7 +32,7 @@ I'm currently developing a much larger desktop software project that has grown w
 
 It combines full-stack development with AI integration, application architecture, conversational and voice features, account security, persistent data, testing, and desktop application development.
 
-The project is still under active development, so I'm keeping the source code and some of the implementation details private for now.
+The project is still under active development, so I'm keeping the source code and some of the implementation details private for now. Below is just a preview of how it currently sits. However, it will be changing, and should hopefully be up and running very soon. 
 
 <img width="1858" height="1079" alt="image" src="https://github.com/user-attachments/assets/06d07cce-20fc-4de2-8d4d-1db0e8abcce0" />
 
